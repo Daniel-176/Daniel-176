@@ -22,6 +22,9 @@
 
 i ❤️ NodeJS!
 
+## Hobbies
+- Reverse Engineering
+
 ## Outside hobbies
 - Walking
 - Playing piano
